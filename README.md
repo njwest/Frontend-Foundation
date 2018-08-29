@@ -108,6 +108,8 @@ For regular HTML/CSS, Bootstrap has optional JQuery-dependent JS dependencies th
 
 If you are working in a JSS -> HTML library/framework such as VueJS or ReactJS, create those animations/behaviors with state-dependent functions rather than JQuery or Bootstrap.js (or search the Internet for VueJS/ReactJS implementations of Bootstrap)
 
+For **Vue** projects, [Bootstrap-Vue](https://bootstrap-vue.js.org/docs/) is a phenomenal Bootstrap 4 component library that implements VueJS functionality rather than JQuery-based Bootstrap.js.
+
 ## SASS
 
 coming soon: sass variables, theming, and building sass
