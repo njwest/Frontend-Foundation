@@ -17,6 +17,7 @@
   * [VueJS](#vuejs)
   * [ReactJS](#reactjs)
 * [SVG](#svg)
+* [Extra knowledge](#ready-to-go-dont-go-without-knowing)
 
 ## Web Accessibility
 
@@ -83,7 +84,11 @@ For additional information about this exploit and these `<a>` tag attributes, ch
 ## CSS
 #### Cascading Style Sheets
 
-coming soon: Classes, IDs, Animations,
+* Classes
+* IDs
+* Animations
+
+contents coming soon: Classes, IDs, Animations,
 
 ### CSS Grid
 
@@ -119,7 +124,10 @@ coming soon: sass variables, theming, and building sass
 ## JS
 #### JavaScript
 
-coming soon
+* JavaScript Basics
+* Inline JavaScript
+* External JavaScript
+
 
 ### JS Animation
 
@@ -134,3 +142,18 @@ todo: add content + the comparison slides from val head's webconf.asia presentat
 ### ReactJS
 
 ## SVG
+
+## Ready to go? Don't go without knowing...
+
+#### Readme Driven Development - Write good READMEs
+
+
+* [Write good README and let no one hate you](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+
+#### Get prepared with your mentality & Hands on good news
+Read these articles on soft skills:
+
+* [How to be a good leader and communicate like a boss](https://blog.usejournal.com/how-to-communicate-effectively-as-a-leader-ad49d3f081cc?source=linkShare-e18b016b7269-1536538815)
+* [Getting inspiration & Taking a break with casual reading](https://medium.com)
+* [Real Tech News](https://www.theregister.co.uk)
